@@ -1,0 +1,7 @@
+TEST CHART
+
+Reference:
+
+https://www.highcharts.com/docs/stock/flag-series
+https://www.highcharts.com/forum/viewtopic.php?t=32207
+https://api.highcharts.com/highstock/series.flags.style
